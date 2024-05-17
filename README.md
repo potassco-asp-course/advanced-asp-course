@@ -16,7 +16,7 @@ Materials:
 Running the notebooks:
 * Clone the repository
 * Install clingo and jupyter with:
-  `conda install -c conda-forge clingo jupyter`
+  `conda create -n aasp-course -c conda-forge clingo jupyter`
 * Launch jupyter with `jupyter notebook`
 * The notebooks can also be run on the could clicking here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD)
 
