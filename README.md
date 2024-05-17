@@ -10,7 +10,7 @@
 
 Materials:
 * https://teaching.potassco.org (parts on Meta programming, Multi shot solving, and Theory solving)
-* https://github.com/potassco-asp-course/notebooks
+* https://github.com/potassco-asp-course/notebooks (`advanced` folder)
 * [Kaminski, R., Romero, J., Schaub, T., & Wanko, P. (2023). How to Build Your Own ASP-based System?! Theory Pract. Log. Program., 23(1), 299–361.](https://arxiv.org/pdf/2008.06692.pdf)
 
 Running the notebooks:
