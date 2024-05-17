@@ -24,4 +24,4 @@ Running the notebooks:
 * Section 3 of the paper (you can skip Section 3.4)
 * [Slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.1/meta-encoding.pdf) 
 * [Exercises](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/meta-programming-exercises/meta-programming-exercises.ipynb)
-* [Project](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/meta-programming/meta-programming.ipynb)
+* [Project](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/meta-programming-project/meta-programming-project.ipynb)
