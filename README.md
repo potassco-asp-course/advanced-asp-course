@@ -18,6 +18,7 @@ Running the notebooks:
 * Install clingo and jupyter with:
   `conda install -c conda-forge clingo jupyter`
 * Launch jupyter with `jupyter notebook`
+* The notebooks can also be run on the could clicking here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD)
 
 # Meta programming
 * Section 3 of the paper (you can skip Section 3.4)
