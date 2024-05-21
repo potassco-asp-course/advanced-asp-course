@@ -25,3 +25,4 @@ Running the notebooks:
 * [Slides](https://github.com/potassco-asp-course/course/releases/download/v1.13.1/meta-encoding.pdf) 
 * [Exercises](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/meta-programming-exercises/meta-programming-exercises.ipynb)
 * [Project](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/meta-programming-project/meta-programming-project.ipynb)
+* Submission of the project in GitHub Education [here](https://classroom.github.com/a/FcQWu8i3)
