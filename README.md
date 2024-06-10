@@ -14,7 +14,7 @@ Materials:
 * [Kaminski, R., Romero, J., Schaub, T., & Wanko, P. (2023). How to Build Your Own ASP-based System?! Theory Pract. Log. Program., 23(1), 299–361.](https://arxiv.org/pdf/2008.06692.pdf)
 
 Running the notebooks:
-* Clone the repository
+* Clone the repository https://github.com/potassco-asp-course/notebooks
 * Install clingo and jupyter with:
   `conda create -n aasp-course -c conda-forge clingo jupyter`
 * Launch jupyter with `jupyter notebook`
@@ -26,3 +26,11 @@ Running the notebooks:
 * [Exercises](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/meta-programming-exercises/meta-programming-exercises.ipynb)
 * [Project](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/meta-programming-project/meta-programming-project.ipynb)
 * Submission of the project in GitHub Education [here](https://classroom.github.com/a/FcQWu8i3)
+
+# Multi-shot solving
+* Sections 4 and 5 of the paper
+* [Engineering Slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/controlling.pdf)
+* [Multi-shot solving Slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/msolving.pdf)
+* [Exercises](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-shell/multi-shot-shell.ipynb)
+* [Project](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-mini-asprin/multi-shot-mini-asprin.ipynb)
+* Submission of the project in GitHub Education [here](https://classroom.github.com/a/OlWvCZLU)
