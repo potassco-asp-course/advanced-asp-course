@@ -31,7 +31,7 @@ Running the notebooks:
 * Sections 4 and 5 of the paper
 * [Engineering Slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/controlling.pdf)
 * [Multi-shot solving Slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/msolving.pdf)
-* [Exercise 1](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-aspif/multi-shot-aspif.ipynb)
-* [Exercise 2](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-shell/multi-shot-shell.ipynb)
-* [Project](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-mini-asprin/multi-shot-mini-asprin.ipynb)
+* [Exercise 1: aspif pretty printer](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-aspif/multi-shot-aspif.ipynb)
+* [Exercise 2: clingo shell](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-shell/multi-shot-shell.ipynb)
+* [Project: mini asprin](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-mini-asprin/multi-shot-mini-asprin.ipynb)
 * Submission of the project in GitHub Education [here](https://classroom.github.com/a/OlWvCZLU)
