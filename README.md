@@ -35,3 +35,10 @@ Running the notebooks:
 * [Exercise 2: clingo shell](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-shell/multi-shot-shell.ipynb)
 * [Project: mini asprin](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-mini-asprin/multi-shot-mini-asprin.ipynb)
 * Submission of the project in GitHub Education [here](https://classroom.github.com/a/OlWvCZLU)
+
+# Theory solving
+* Sections 6 and 7 of the paper
+* [Theory solving Slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/tsolving.pdf)
+* [Exercises](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/theory-solving-exercises/theory-solving-exercises.ipynb)
+* Project: to be added
+* Submission of the project in GitHub Education: to be added
