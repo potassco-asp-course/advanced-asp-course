@@ -34,7 +34,7 @@ Running the notebooks:
 * [Exercise 1: aspif pretty printer](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-aspif/multi-shot-aspif.ipynb)
 * [Exercise 2: clingo shell](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-shell/multi-shot-shell.ipynb)
 * [Project: mini asprin](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/multi-shot-mini-asprin/multi-shot-mini-asprin.ipynb)
-* Submission of the project in GitHub Education [here](https://classroom.github.com/a/OlWvCZLU)
+* Submission of the project in GitHub Education [here](https://classroom.github.com/a/G6jOuOUo)
 
 # Theory solving
 * Sections 6 and 7 of the paper
