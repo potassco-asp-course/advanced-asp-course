@@ -40,5 +40,5 @@ Running the notebooks:
 * Sections 6 and 7 of the paper
 * [Theory solving Slides](https://github.com/potassco-asp-course/course/releases/download/v1.21.0/tsolving.pdf)
 * [Exercises](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/theory-solving-exercises/theory-solving-exercises.ipynb)
-* Project: to be added
-* Submission of the project in GitHub Education: to be added
+* [Project: mini clingcon](https://github.com/potassco-asp-course/notebooks/blob/master/advanced/theory-solving-mini-clingcon/theory-solving-mini-clingcon.ipynb)
+* Submission of the project in GitHub Education [here](https://classroom.github.com/a/A5X_0p_K)
